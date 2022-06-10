@@ -46,6 +46,7 @@ function onUpdateIsDone(task) {
     task.isDone = !currentValue;
 
     return task;
+    
 }
 
 /**
